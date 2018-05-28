@@ -1,0 +1,10 @@
+STORAGE: NONE
+RESTRICTION: == net462
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    FAKE (4.64.13) - storage: packages, clitool: true
+    FSharp.Core (4.3.4)
+    FSharp.Data (2.4.6)
+    FSharp.Data.TypeProviders (5.0.0.3-beta)
+      FSharp.Core (>= 3.1.2.5)
+    System.ServiceModel.Primitives (4.4.2)
